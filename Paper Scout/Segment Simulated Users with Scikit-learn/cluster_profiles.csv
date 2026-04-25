@@ -1,0 +1,5 @@
+cluster,session_count,days_active,total_events,messages_sent,premium_features_used,days_since_last_activity,engagement_score,is_premium,avg_sessions_per_day,size,percentage
+0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,927,92.7
+1,5.27,7.59,24.32,6.14,2.77,9.14,46.59,0.45,1.21,22,2.2
+2,12.75,15.0,54.5,14.75,5.0,4.25,103.25,0.5,1.41,4,0.4
+3,1.77,2.66,7.11,1.85,0.57,20.66,12.55,0.26,1.05,47,4.7

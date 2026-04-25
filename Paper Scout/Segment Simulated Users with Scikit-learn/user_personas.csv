@@ -1,0 +1,5 @@
+,name,description,characteristics,size
+0,Power Users,Highly engaged users who use the platform frequently and extensively,"['Highest session count (0.0 sessions)', 'Most active days (0.0 days)', 'High premium feature usage (0.0)', 'Frequent messaging (0.0 messages)', 'Strong engagement score (0.0)']",927.0 users (92.7%)
+1,Regular Engagers,Consistent users with moderate activity levels,"['Moderate session count (5.3 sessions)', 'Regular activity (7.6 days)', 'Balanced feature usage (2.8)', 'Steady messaging (6.1 messages)', 'Good engagement score (46.6)']",22.0 users (2.2%)
+2,Casual Users,Light users who engage occasionally with basic features,"['Low session count (12.8 sessions)', 'Limited active days (15.0 days)', 'Minimal premium usage (5.0)', 'Few messages sent (14.8 messages)', 'Basic engagement (103.2)']",4.0 users (0.4%)
+3,At-Risk Users,Users showing signs of disengagement or churn risk,"['Lowest recent activity (1.8 sessions)', 'Many days since last activity (20.7 days)', 'Minimal feature usage (0.6)', 'Rare messaging (1.9 messages)', 'Poor engagement score (12.6)']",47.0 users (4.7%)

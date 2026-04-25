@@ -1,0 +1,36 @@
+{
+  "data_simulation": {
+    "total_papers": 10000,
+    "fields_covered": 8,
+    "date_range": {
+      "start": "2015-10-25",
+      "end": "2025-10-22"
+    }
+  },
+  "ranking_algorithm": {
+    "score_components": [
+      "citation_score_adj",
+      "recency_score",
+      "journal_score",
+      "collaboration_score"
+    ],
+    "weights": [
+      0.4,
+      0.25,
+      0.2,
+      0.15
+    ],
+    "top_paper_score": 100.0
+  },
+  "ab_test_results": {
+    "control_rate": 0.1134,
+    "variant_rate": 0.1272,
+    "uplift": 0.12169312169312176,
+    "p_value": 0.033920621238813876,
+    "significant": true
+  },
+  "business_impact": {
+    "monthly_revenue_increase": 69000.0,
+    "annual_revenue_increase": 828000.0
+  }
+}
